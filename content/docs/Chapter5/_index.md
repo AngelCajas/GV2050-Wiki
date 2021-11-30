@@ -1,16 +1,18 @@
 ---
 date: "2018-09-09T00:00:00Z"
-icon: book-reader
+icon: book
 icon_pack: fas
-linktitle: Chapter 2
-summary: Learn how to use Academic's docs layout for publishing online courses, software
+linktitle: Chapter 5
+summary: Learn how to use Wowchemy's docs layout for publishing online courses, software
   documentation, and tutorials.
-title: Chapter 2
+title: Chapter 5
 type: book
-weight: 2
+weight: 5
 ---
 
 ## Flexibility
+
+Document everything!
 
 This feature can be used for publishing content such as:
 
