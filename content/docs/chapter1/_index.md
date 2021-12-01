@@ -10,6 +10,8 @@ type: book
 weight: 1
 ---
 
+Descargar version en [PDF](/docs/chapter1/Manual_Vol.pdf)
+
                                         Mayo 2021, GV2050 Team
                                        Patricia Jaramillo Díaz
 `Colaboración`: Luka Negoita, Esme Plunkett, Paúl Mayorga, Rebecca Ditgen, Anna Calle y Liliana Jaramillo
